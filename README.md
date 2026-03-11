@@ -137,7 +137,7 @@ Please return the result following the order of query at [Query TXT](https://git
 
 ## Organizing Team
 
-| <img src="https://skyy93.github.io/assets/img/avatar.jpeg?raw=true" width="160"> | |<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
+| <img src="https://skyy93.github.io/assets/img/avatar.jpeg?raw=true" width="160"> | <img src="https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/picture/yaxuan.jpg?raw=true" width="160">|<img src="https://github.com/wtyhub/Photo/blob/a713229943f0628ffb82556bc9e396bbfabe8567/1%20inch.jpg?raw=true" width="160"> |
 | :-: | :-: | :-: |
 | [Fabian Deuser](https://skyy93.github.io/), University of the Bundeswehr Munich, Germany | [Yaxuan Li](https://yaxuanli-cn.github.io), University of Macau, China | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China | 
 | <img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg?raw=true" width="160"> | | <img src="https://spyflying.github.io/images/android-chrome-512x512.png" width=160> |
