@@ -1,7 +1,7 @@
 ---
-title: "UAVM 2025"
+title: "UAVM 2026"
 collection: pages
-permalink: /ACMMM2025Workshop-UAV
+permalink: /ACMMM2026Workshop-UAV
 author_profile: false
 ---
 
@@ -103,7 +103,7 @@ Accurate UAV navigation during the final approach phase, often referred to as "l
 
 An example of the task is shown below. Given a source image and a target image, participants must predict the relative translation and heading required to align the UAV with the target pose.
 
-<img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/example.png" width="320">
+<img src="https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/picture/example.png" width="320">
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/proposal.pdf)
 
@@ -142,7 +142,7 @@ Please return the result following the order of query at [Query TXT](https://git
 | [Fabian Deuser](https://skyy93.github.io/), University of the Bundeswehr Munich, Germany | [Yaxuan Li](https://yaxuanli-cn.github.io), University of Macau, China | [Tingyu Wang](https://scholar.google.com/citations?user=wv3H-F4AAAAJ), Hangzhou Dianzi University, China | 
 | <img src="https://yujiaoshi.github.io/images/YujiaoShiCircle.jpg?raw=true" width="160"> | | <img src="https://spyflying.github.io/images/android-chrome-512x512.png" width=160> |
 [Yujiao Shi](https://yujiaoshi.github.io/), ShanghaiTech University, China | Anna Bößendörfer, University of the Bundeswehr Munich | [Shaofei Huang](https://spyflying.github.io/), University of Macau, China |
-<img src="https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/picture/pan.jpeg?raw=true" width="160"> | <img src="https://github.com/layumi/ICME2022SS/raw/main/picture/1.png?raw=true" width="160"> | <img src="https://www.comp.nus.edu.sg/~sochr/www/stfphotos/rogerz.jpg?raw=true" width="160"> |
+<img src="https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/picture/pan.jpeg?raw=true" width="160"> | <img src="https://github.com/layumi/ICME2022SS/raw/main/picture/1.png?raw=true" width="160"> | <img src="https://www.comp.nus.edu.sg/~sochr/www/stfphotos/rogerz.jpg?raw=true" width="160"> |
 [Xiao Pan](https://scholar.google.com/citations?user=5Rh3yn4AAAAJ&hl=en/), Shenzhen University, China | [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/), National University of Singapore, Singapore |
 
 
