@@ -103,7 +103,7 @@ Accurate UAV navigation during the final approach phase, often referred to as "l
 
 An example of the task is shown below. Given a source image and a target image, participants must predict the relative translation and heading required to align the UAV with the target pose.
 
-<img src="https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/picture/example.png" width="320">
+<img src="https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/picture/example.png?raw=true" width="320">
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/proposal.pdf)
 
@@ -153,7 +153,7 @@ All papers presented at ACMMM 2026 will be included in ACM proceeding. All paper
 
 ## Student Traval Funding
 
-Please check https://acmmm2026.org/
+Please check https://2026.acmmm.org/
 
 ## Workshop Citation
 ```bibtex
