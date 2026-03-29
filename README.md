@@ -32,7 +32,7 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 **Challenge**
 
-* Challenge Start: 11 March 2026
+* Challenge Start: 29 March 2026
 * Challenge End: 30 June 2026
 
 **Submission of papers:**
@@ -96,7 +96,7 @@ Page limits include diagrams and appendices. Submissions should be single-blind,
 
 ## Challenge
 
-**Challenge Platform is at [https://codalab.lisn.upsaclay.fr/competitions/22073](https://codalab.lisn.upsaclay.fr/competitions/22073).**
+**Challenge Platform is at [https://www.codabench.org/competitions/15251/](https://www.codabench.org/competitions/15251/).**
 
 This year, we introduce a new dataset and task targeting fine-grained localization. Specifically, we present PairUAV, which shifts the focus from cross-view retrieval to terminal-range pose alignment. 
 Accurate UAV navigation during the final approach phase, often referred to as "last-meter" navigation, is critical for applications such as autonomous landing, delivery, and search-and-rescue, where GNSS may be unreliable and monocular vision suffers from scale ambiguity. To address this challenge, we introduce PairUAV, a fine-grained localization dataset derived from University-1652, providing explicit supervision for relative pose estimation. Unlike existing UAV localization benchmarks, PairUAV formulates navigation as a target-driven task, where a UAV agent must align its pose with a specified target image defining the goal location and orientation. PairUAV is the first dataset to support target-driven UAV navigation at this scale, containing over 4.8 million image pairs across 72 scenes.
@@ -107,17 +107,14 @@ An example of the task is shown below. Given a source image and a target image, 
 
 Check challenge details at Section 5 in [proposal](https://github.com/spyflying/ACMMM2026Workshop-UAV/blob/main/proposal.pdf)
 
-The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. The name-masked test set (query_street & gallery_satellite) can be downloaded from [OneDrive](https://hdueducn-my.sharepoint.com/:f:/g/personal/wongtyu_hdu_edu_cn/Esu6JIlwuBtAnr5VAEFaPzEBM1VjH6WVzWiWJjH0vLW4TQ?e=9JscAg).
+The training dataset can be download by [Request](https://github.com/layumi/University1652-Baseline/blob/master/Request.md). Usually I will reply the download link in 5 minutes. Run this script to process University-1652 as our new training set for PairUAV and automatically download the competition test data:
+[https://github.com/YaxuanLi-cn/UAVM_2026/blob/main/pairUAV/data_process.sh](https://github.com/YaxuanLi-cn/UAVM_2026/blob/main/pairUAV/data_process.sh).
 
-The submission example can be found at [Baseline Submission](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/answer.zip). Please zip it as “answer.zip” to submit the result, and it is crucial to name the file exactly as answer.txt within the zip, as otherwise the evaluation will fail.
+We provide the code of a baseline framework at [https://github.com/YaxuanLi-cn/UAVM_2026](https://github.com/YaxuanLi-cn/UAVM_2026) for reference. 
 
-Please return the top-10 satellite names. For example, the first query is “VdthudbGjJ4aaNkl.jpeg”. Therefore, the first line of returned result in “answer.txt” should be the format as follows from Rank-1 to Rank-10:
+The submission example can be found at [Baseline Submission](https://raw.githubusercontent.com/YaxuanLi-cn/UAVM_2026/refs/heads/main/baseline/test_predict_output.txt). Please zip it as “result.zip” to submit the result, and it is crucial to name the file exactly as result.txt within the zip, as otherwise the evaluation will fail.
 
-```
-ptHYAN3piG3YwOft       I9bzP8jnLlz9zpMi	      c3vVTLCzTAVzuapU       gkriPL4PNtcWoHgg       iIL2ASdQ5vrFsJs0       TinwNxUGYAzz0kTO      XilyyHqywhUBxHfT       WLasj720MnF13zPI       Qz4NypYGPhHdiAvn       gO2hUfIHC8N4ZWKz
-```
-
-Please return the result following the order of query at [Query TXT](https://github.com/spyflying/ACMMM2025Workshop-UAV/blob/main/query_street_name.txt). It will be 2759 lines.
+**Attention**: When you submit, you need to ensure that the result.txt is in the first layer directory of the result.zip, otherwise it will cause the evaluation to fail.
 
 ## FAQ - Frequently Asked Questions
 
