@@ -89,6 +89,8 @@ In this workshop, we welcome four types of submissions, all of which should rela
 
 Page limits include diagrams and appendices. Submissions should be single-blind, written in English, and formatted according to the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
+This year, one **Best Paper Award** and one **Best Student Paper Award** will be selected from all submissions, and one **Best Challenge Paper Award** will be selected from the top 5 teams of the challenge. To be eligible for any award, the authors should make their code open-source.
+
 **Tips:**
 - For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.) 
 - For social good, please do not contain any misleading words, such as ``surveillance`` and  ``secret``.
