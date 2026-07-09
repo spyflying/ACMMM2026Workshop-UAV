@@ -41,7 +41,8 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 * Workshop Papers Submission End: 16 July 2026
 * Workshop Papers Notification: 06 August 2026
-* Student Travel Grants Application Deadline: TBD 
+* Student Travel Grants Application Deadline: 27 July
+* Extra Female Award Deadline: 15 August
 * Camera-ready Submission: 20 August 2026 
 * Conference Dates: 10 November 2026 –14 November 2026
 
@@ -154,7 +155,10 @@ All papers presented at ACMMM 2026 will be included in ACM proceeding. All paper
 
 ## Student Traval Funding
 
-Please check https://2026.acmmm.org/
+Please check [https://2026.acmmm.org/site/student-travel-awards.html](https://2026.acmmm.org/site/student-travel-awards.html).
+
+1. Application DDL: 27 July
+2. Extra Female Award DDL: 15 August
 
 ## Workshop Citation
 ```bibtex
