@@ -153,7 +153,7 @@ The submission example can be found at [Baseline Submission](https://raw.githubu
 All papers presented at ACMMM 2026 will be included in ACM proceeding. All papers submitted to this workshop will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. 
 
 
-## Student Traval Funding
+## Student Travel Funding
 
 Please check [https://2026.acmmm.org/site/student-travel-awards.html](https://2026.acmmm.org/site/student-travel-awards.html).
 
