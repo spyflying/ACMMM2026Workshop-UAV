@@ -86,7 +86,7 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 
 In this workshop, we welcome four types of submissions, all of which should relate to the topics and themes as listed in Section 3: 
 
-- (1). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, University160k, in terms of effectiveness and efficiency. 
+- (1). Challenge papers (**up to 4 pages in length, plus unlimited pages for references**): original solution to the Challenge data, PairUAV, in terms of effectiveness and efficiency. 
 
 - (2). Original papers (**up to 4 pages in length, plus unlimited pages for references**): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for UAVs in Multimedia; Page limits include diagrams and appendices.
 
@@ -167,5 +167,14 @@ Please check [https://2026.acmmm.org/site/student-travel-awards.html](https://20
   author={Deuser, Fabian and Li, Yaxuan and Wang, Tingyu and Shi, Yujiao and Bößendörfer, Anna and Huang, Shaofei and Pan, Xiao and Zheng, Zhedong and Zimmermann, Roger},
   booktitle={Proceedings of the 34th ACM International Conference on Multimedia Workshop},
   year={2026}
-}  
+}
+@misc{li2026lastmeterprecisionnavigationuavs,
+      title={Last-Meter Precision Navigation for UAVs: A Diffusion-Refined Aerial Visual Servoing Approach}, 
+      author={Yaxuan Li and Jiarui Zeng and Shaofei Huang and Zhedong Zheng},
+      year={2026},
+      eprint={2607.04352},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.04352}, 
+}
 ```
