@@ -48,13 +48,29 @@ The accept papers will be published at ACM Multimedia Workshop (top 50%), and go
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
+## Workshop Online Session
+
+**Topic:** ACM MM 2026 Workshop — *UAVs in Multimedia: Capturing the World from a New Perspective*  
+**Time:** Nov 14, 2026 · 14:00 PM Rio de Janeiro
+
+**Join Zoom Meeting:**  
+[https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1](https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1)
+
+**Meeting ID:** 656 0747 8494
+**Passcode:** 234788
+
+**Join Instructions:**  
+[https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng
+](https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng
+)
+
 ## Workshop Schedule (14/11/2026 at Room Oceania V)
 
 14:00~15:15pm Invited Talk from Prof. Martin Werner
 
 15:15~15:45pm Break 
 
-15:45~17:00pm Invited Talk from Prof. Hongxia Yang
+15:45~17:00pm Invited Talk, TBD
 
 17:00~17:20pm Challenge 1st-place Winner
 
