@@ -66,17 +66,17 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 
 ## Workshop Schedule (14/11/2026 at Room Oceania V)
 
-14:00~15:15pm Invited Talk from Prof. Martin Werner
+14:00 - 14:10  Opening & Challenge Report (Fabian Deuser)
 
-15:15~15:45pm Break 
+14:10 - 14:50  Prof. Martin Werner
 
-15:45~17:00pm Invited Talk, TBD
+14:50 - 15:40 TBD
 
-17:00~17:20pm Challenge 1st-place Winner
+15:40 - 16:00 Coffee break
 
-17:20~17:40pm Challenge 2nd-place Winner
+16:00 - 17:00 Competition Winner (20 minutes per team)
 
-17:40~18:00pm Challenge 3rd-place Winner
+17:10 – 18:00  Poster Session
 
 ## Abstract
 Uncrewed aerial vehicles (UAVs), also known as drones, have grown in popularity in recent years due to their ability to capture high-quality multimedia data from above. As multimedia applications such as aerial photography, cinematography, and mapping have grown in popularity, UAVs have emerged as powerful tools for gathering rich, diverse multimedia content. This workshop aims to bring together researchers, practitioners, and enthusiasts interested in UAV multimedia to explore the latest advancements, challenges, and opportunities in this exciting field. Topics covered will include aerial image and video processing, machine learning for UAV data analysis, UAV swarm technology, and UAV-based multimedia applications. In the context of the ACM Multimedia Conference, this workshop is highly relevant, as multimedia data from UAVs is becoming an important source of content for many applications. It will provide a platform for researchers to share their work and discuss potential collaborations and an opportunity for practitioners to learn about the latest developments in UAV multimedia technology. Overall, this workshop provides a unique opportunity to explore the exciting, rapidly evolving field of UAV multimedia and its potential impact on the broader multimedia community.
